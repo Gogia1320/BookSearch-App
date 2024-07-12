@@ -10,6 +10,7 @@ Dynamic Filtering: Allows users to refine their search results based on various 
 Responsive Design: Ensures optimal viewing and interaction experience across different devices (desktop, tablet, mobile).
 User-Friendly Interface: Features a clean, modern design with interactive elements to enhance user engagement.
 Efficient Performance: Implements best practices in React.js and API integration for fast and smooth performance.
+
 Technologies Used
 
 React.js: A JavaScript library for building user interfaces, allowing for efficient and modular development.
